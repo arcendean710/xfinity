@@ -3,7 +3,7 @@ How to Login Xfinity Account?
 
 Xfinity, operated by Comcast, is a leading provider of internet, cable TV, phone, and home security services in the United States. If you’re an Xfinity customer, managing your services online is simple and convenient—once you know how to log in to your account. Whether you need to pay your bill, access Xfinity email, update service details, or troubleshoot issues, the first step is to access your **Xfinity account login**.
 
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
